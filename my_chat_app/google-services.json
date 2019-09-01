@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1094342158439",
+    "firebase_url": "https://siri20190901.firebaseio.com",
+    "project_id": "siri20190901",
+    "storage_bucket": "siri20190901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094342158439:android:1ed316b6259f431e",
+        "android_client_info": {
+          "package_name": "com.korea.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094342158439-hvot3drri452cqgqn7u1f3eg3uhlbsl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dOWiNMk0R_PBivEWJvQQX9zHsour24A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094342158439-hvot3drri452cqgqn7u1f3eg3uhlbsl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094342158439:android:e8c976cf880c6e05",
+        "android_client_info": {
+          "package_name": "com.korea.my_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094342158439-hvot3drri452cqgqn7u1f3eg3uhlbsl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dOWiNMk0R_PBivEWJvQQX9zHsour24A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094342158439-hvot3drri452cqgqn7u1f3eg3uhlbsl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

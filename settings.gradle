@@ -1,1 +1,1 @@
-include ':app', ':myapp02'
+include ':app', ':myapp02', ':my_chat_app'
